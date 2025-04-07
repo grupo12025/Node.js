@@ -6,6 +6,8 @@ const datos = {
   };
 
   
+
+  
   
   // Mostrar los datos en la consola (esto se verá en el navegador)
   console.log("Nombre:", datos.nombre);
@@ -16,3 +18,4 @@ const datos = {
   document.getElementById("nombre").innerHTML = datos.nombre;
   document.getElementById("direccion").innerHTML = datos.direccion;
   document.getElementById("id").innerHTML = datos.id;
+  
