@@ -1,7 +1,7 @@
 // Declarar datos fijos
 const datosJS = {
     nom3: "Jordan",
-    direccion3: "Mz z lt 9",
+    direc3: "Mz z lt 9",
     id03: "1530857"
   };
 
@@ -13,6 +13,6 @@ const datosJS = {
   
   // Insertar los datos en el HTML
   document.getElementById("nom3").innerHTML = datosJS.nom3;
-  document.getElementById("direccion3").innerHTML = datosJS.direc3;
+  document.getElementById("direc3").innerHTML = datosJS.direc3;
   document.getElementById("id03").innerHTML = datosJS.id03;
   
