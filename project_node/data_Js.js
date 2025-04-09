@@ -1,7 +1,7 @@
 // Declarar datos fijos
 const datosJS = {
-    nombre2: "Jordan",
-    direccion2: "Mz z lt 9",
+    nombre3: "Jordan",
+    direccion3: "Mz z lt 9",
     id3: "1530857"
   };
 
