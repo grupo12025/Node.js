@@ -7,8 +7,8 @@ const datosJS = {
 
   
   // Mostrar los datos en la consola (esto se verá en el navegador)
-  console.log("Nombre3:", datosJS.nombre3);
-  console.log("Dirección3:", datosJS.direccion3);
+  console.log("nombre3:", datosJS.nombre3);
+  console.log("direccion3:", datosJS.direccion3);
   console.log("id3:", datosJS.id3);
   
   // Insertar los datos en el HTML
